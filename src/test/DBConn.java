@@ -6,7 +6,7 @@ public class DBConn {
 	static final String DB_PORT = "3306";
 	static final String DB_HOST = "localhost";
 	static final String DB_USERNAME = "root";
-	static final String DB_PASSWORD = "onClipEvent";
+	static final String DB_PASSWORD = "dbpassword";
 	
 	static final String CONN_STR = "jdbc:mysql://" + DB_HOST + ":" + DB_PORT + "/" + DB_NAME;
 	
